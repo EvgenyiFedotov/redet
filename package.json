@@ -1,0 +1,8 @@
+{
+  "name": "redet",
+  "version": "0.0.0",
+  "main": "./dist",
+  "repository": "git@github.com:EvgenyiFedotov/redet.git",
+  "author": "e.fedotov <fedotov1290@gmail.com>",
+  "license": "MIT"
+}
